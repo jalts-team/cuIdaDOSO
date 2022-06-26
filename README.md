@@ -12,4 +12,5 @@ O código do aplicativo encontra-se na pasta [src](src/).
   ![](images/hiperconsultador.png)
 
 2. Classifica Paciente
-  ![Figura 2 - Classifica Paciente](images/classificapaciente.png)
+
+  ![](images/classificapaciente.png)
