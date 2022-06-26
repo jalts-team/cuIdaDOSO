@@ -1,7 +1,7 @@
 # Aplicativo cuIdaDOSO
 O aplicativo cuIdaDOSO para Android foi projetado com duas funcionalidades para:
 1. [Detectar os pacientes hiper consultadores](src/jaltsHiperConsultador.apk)
-2. [Classificar a fragilidade do idoso](http://ai2.appinventor.mit.edu/b/182cd)
+2. [Classificar a fragilidade do idoso](src/jaltsClassificaPaciente.apk)
 
 ## Código-fonte
 O código do aplicativo encontra-se na pasta [src](src/).
