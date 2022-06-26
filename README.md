@@ -4,7 +4,7 @@ O aplicativo cuIdaDOSO para Android foi projetado com duas funcionalidades para:
 2. [Classificar a fragilidade do idoso](src/jaltsClassificaPaciente.apk)
 
 ## Código-fonte
-O código do aplicativo encontra-se na pasta [src](src/).
+Os códigos do aplicativo estão disponíveis na pasta [src](src/).
 
 ## Figuras
 1. Hiper consultador
