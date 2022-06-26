@@ -8,7 +8,8 @@ O código do aplicativo encontra-se na pasta [src](src/).
 
 ## Figuras
 1. Hiper consultador
-![](images/hiperconsultador.png)
+
+  ![](images/hiperconsultador.png)
 
 2. Classifica Paciente
-![Figura 2 - Classifica Paciente](images/classificapaciente.png)
+  ![Figura 2 - Classifica Paciente](images/classificapaciente.png)
