@@ -7,8 +7,8 @@ O aplicativo cuIdaDOSO foi projetado com duas funcionalidades para:
 O código do aplicativo encontra-se na pasta [src](src/).
 
 ## Figuras
-![Figura 1 - Hiper consultador](images/hiperconsultador.png)
-  Figura 1 - Hiper consultador
+1. Hiper consultador
+![](images/hiperconsultador.png)
 
+2. Classifica Paciente
 ![Figura 2 - Classifica Paciente](images/classificapaciente.png)
-  Figura 2 - Classifica Paciente
